@@ -1,4 +1,4 @@
-<script type="text/javascript">
+
 define(['./pubsub'], function (pubsub) {
 	return {
 		init: function() {
@@ -29,4 +29,4 @@ define(['./pubsub'], function (pubsub) {
 		}
 	};
 });
-</script>
+
