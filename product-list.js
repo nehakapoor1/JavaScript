@@ -1,4 +1,3 @@
-
 define(['./pubsub'], function (pubsub) {
 	return {
 		init: function() {
