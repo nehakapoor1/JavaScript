@@ -1,4 +1,4 @@
-define(['./pubsub'], function (pubsub) {
+define(['pubsub'], function (pubsub) {
 		var cart, count = 0;
 
 		pubsub.sub('add-to-cart', function(item){
