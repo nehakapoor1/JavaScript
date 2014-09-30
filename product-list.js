@@ -1,4 +1,4 @@
-define(['./pubsub'], function (pubsub) {
+define(['pubsub'], function (pubsub) {
 	return {
 		init: function() {
 			var productList = $('.products');
